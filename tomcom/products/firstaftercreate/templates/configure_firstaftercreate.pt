@@ -1,4 +1,4 @@
-<metal:block metal:use-macro="context/main_template_mams/macros/master"
+<metal:block metal:use-macro="context/main_template/macros/master"
              i18n:domain="plone">
 
 <metal:block fill-slot="content"
